@@ -36,7 +36,4 @@ To improve Vrinda Store's sales for 2023, the following strategies are suggested
   
 Note: This analysis was conducted using **Microsoft Excel 365**, leveraging its latest features for robust data analysis and visualization.
 
-**Special Thanks**
-
-**Rishabh Mishra** https://www.youtube.com/watch?v=gTK5rNhWJyA
 Excel Dataset Download: https://bit.ly/3X381ok
